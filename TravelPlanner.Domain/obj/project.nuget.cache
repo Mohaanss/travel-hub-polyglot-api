@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "2YWpW9IWCotrNf7bLrMk8Ai7Y65j/iTvsEVZFDLYSL+WxcyQk8LDwIMk1zhKj+VyxFYs3me99//xzUbDDx5Nsg==",
+  "success": true,
+  "projectFilePath": "/Users/ansar/Documents/opt-nosql/tp7/TravelPlannerApi/TravelPlanner.Domain/TravelPlanner.Domain.csproj",
+  "expectedPackageFiles": [
+    "/Users/ansar/.nuget/packages/mongodb.bson/3.3.0/mongodb.bson.3.3.0.nupkg.sha512",
+    "/Users/ansar/.nuget/packages/system.memory/4.5.5/system.memory.4.5.5.nupkg.sha512",
+    "/Users/ansar/.nuget/packages/system.runtime.compilerservices.unsafe/5.0.0/system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

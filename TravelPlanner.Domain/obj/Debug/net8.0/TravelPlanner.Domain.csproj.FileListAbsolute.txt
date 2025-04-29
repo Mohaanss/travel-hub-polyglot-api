@@ -1,0 +1,12 @@
+/Users/ansar/Documents/opt-nosql/tp7/TravelPlannerApi/TravelPlanner.Domain/bin/Debug/net8.0/TravelPlanner.Domain.deps.json
+/Users/ansar/Documents/opt-nosql/tp7/TravelPlannerApi/TravelPlanner.Domain/bin/Debug/net8.0/TravelPlanner.Domain.dll
+/Users/ansar/Documents/opt-nosql/tp7/TravelPlannerApi/TravelPlanner.Domain/bin/Debug/net8.0/TravelPlanner.Domain.pdb
+/Users/ansar/Documents/opt-nosql/tp7/TravelPlannerApi/TravelPlanner.Domain/obj/Debug/net8.0/TravelPlanner.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ansar/Documents/opt-nosql/tp7/TravelPlannerApi/TravelPlanner.Domain/obj/Debug/net8.0/TravelPlanner.Domain.AssemblyInfoInputs.cache
+/Users/ansar/Documents/opt-nosql/tp7/TravelPlannerApi/TravelPlanner.Domain/obj/Debug/net8.0/TravelPlanner.Domain.AssemblyInfo.cs
+/Users/ansar/Documents/opt-nosql/tp7/TravelPlannerApi/TravelPlanner.Domain/obj/Debug/net8.0/TravelPlanner.Domain.csproj.CoreCompileInputs.cache
+/Users/ansar/Documents/opt-nosql/tp7/TravelPlannerApi/TravelPlanner.Domain/obj/Debug/net8.0/TravelPlanner.Domain.dll
+/Users/ansar/Documents/opt-nosql/tp7/TravelPlannerApi/TravelPlanner.Domain/obj/Debug/net8.0/refint/TravelPlanner.Domain.dll
+/Users/ansar/Documents/opt-nosql/tp7/TravelPlannerApi/TravelPlanner.Domain/obj/Debug/net8.0/TravelPlanner.Domain.pdb
+/Users/ansar/Documents/opt-nosql/tp7/TravelPlannerApi/TravelPlanner.Domain/obj/Debug/net8.0/ref/TravelPlanner.Domain.dll
+/Users/ansar/Documents/opt-nosql/tp7/TravelPlannerApi/TravelPlanner.Domain/obj/Debug/net8.0/TravelPlanner.Domain.csproj.AssemblyReference.cache

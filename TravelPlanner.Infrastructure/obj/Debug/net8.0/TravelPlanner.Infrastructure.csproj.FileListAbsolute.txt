@@ -1,0 +1,15 @@
+/Users/ansar/Documents/opt-nosql/tp7/TravelPlannerApi/TravelPlanner.Infrastructure/bin/Debug/net8.0/TravelPlanner.Infrastructure.deps.json
+/Users/ansar/Documents/opt-nosql/tp7/TravelPlannerApi/TravelPlanner.Infrastructure/bin/Debug/net8.0/TravelPlanner.Infrastructure.dll
+/Users/ansar/Documents/opt-nosql/tp7/TravelPlannerApi/TravelPlanner.Infrastructure/bin/Debug/net8.0/TravelPlanner.Infrastructure.pdb
+/Users/ansar/Documents/opt-nosql/tp7/TravelPlannerApi/TravelPlanner.Infrastructure/bin/Debug/net8.0/TravelPlanner.Domain.dll
+/Users/ansar/Documents/opt-nosql/tp7/TravelPlannerApi/TravelPlanner.Infrastructure/bin/Debug/net8.0/TravelPlanner.Domain.pdb
+/Users/ansar/Documents/opt-nosql/tp7/TravelPlannerApi/TravelPlanner.Infrastructure/obj/Debug/net8.0/TravelPlanner.Infrastructure.csproj.AssemblyReference.cache
+/Users/ansar/Documents/opt-nosql/tp7/TravelPlannerApi/TravelPlanner.Infrastructure/obj/Debug/net8.0/TravelPlanner.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ansar/Documents/opt-nosql/tp7/TravelPlannerApi/TravelPlanner.Infrastructure/obj/Debug/net8.0/TravelPlanner.Infrastructure.AssemblyInfoInputs.cache
+/Users/ansar/Documents/opt-nosql/tp7/TravelPlannerApi/TravelPlanner.Infrastructure/obj/Debug/net8.0/TravelPlanner.Infrastructure.AssemblyInfo.cs
+/Users/ansar/Documents/opt-nosql/tp7/TravelPlannerApi/TravelPlanner.Infrastructure/obj/Debug/net8.0/TravelPlanner.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/ansar/Documents/opt-nosql/tp7/TravelPlannerApi/TravelPlanner.Infrastructure/obj/Debug/net8.0/TravelPlanner.Infrastructure.csproj.CopyComplete
+/Users/ansar/Documents/opt-nosql/tp7/TravelPlannerApi/TravelPlanner.Infrastructure/obj/Debug/net8.0/TravelPlanner.Infrastructure.dll
+/Users/ansar/Documents/opt-nosql/tp7/TravelPlannerApi/TravelPlanner.Infrastructure/obj/Debug/net8.0/refint/TravelPlanner.Infrastructure.dll
+/Users/ansar/Documents/opt-nosql/tp7/TravelPlannerApi/TravelPlanner.Infrastructure/obj/Debug/net8.0/TravelPlanner.Infrastructure.pdb
+/Users/ansar/Documents/opt-nosql/tp7/TravelPlannerApi/TravelPlanner.Infrastructure/obj/Debug/net8.0/ref/TravelPlanner.Infrastructure.dll

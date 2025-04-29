@@ -1,0 +1,15 @@
+/Users/ansar/Documents/opt-nosql/tp7/TravelPlannerApi/TravelPlanner.Application/bin/Debug/net8.0/TravelPlanner.Application.deps.json
+/Users/ansar/Documents/opt-nosql/tp7/TravelPlannerApi/TravelPlanner.Application/bin/Debug/net8.0/TravelPlanner.Application.dll
+/Users/ansar/Documents/opt-nosql/tp7/TravelPlannerApi/TravelPlanner.Application/bin/Debug/net8.0/TravelPlanner.Application.pdb
+/Users/ansar/Documents/opt-nosql/tp7/TravelPlannerApi/TravelPlanner.Application/bin/Debug/net8.0/TravelPlanner.Domain.dll
+/Users/ansar/Documents/opt-nosql/tp7/TravelPlannerApi/TravelPlanner.Application/bin/Debug/net8.0/TravelPlanner.Domain.pdb
+/Users/ansar/Documents/opt-nosql/tp7/TravelPlannerApi/TravelPlanner.Application/obj/Debug/net8.0/TravelPlanner.Application.csproj.AssemblyReference.cache
+/Users/ansar/Documents/opt-nosql/tp7/TravelPlannerApi/TravelPlanner.Application/obj/Debug/net8.0/TravelPlanner.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ansar/Documents/opt-nosql/tp7/TravelPlannerApi/TravelPlanner.Application/obj/Debug/net8.0/TravelPlanner.Application.AssemblyInfoInputs.cache
+/Users/ansar/Documents/opt-nosql/tp7/TravelPlannerApi/TravelPlanner.Application/obj/Debug/net8.0/TravelPlanner.Application.AssemblyInfo.cs
+/Users/ansar/Documents/opt-nosql/tp7/TravelPlannerApi/TravelPlanner.Application/obj/Debug/net8.0/TravelPlanner.Application.csproj.CoreCompileInputs.cache
+/Users/ansar/Documents/opt-nosql/tp7/TravelPlannerApi/TravelPlanner.Application/obj/Debug/net8.0/TravelPlanner.Application.csproj.CopyComplete
+/Users/ansar/Documents/opt-nosql/tp7/TravelPlannerApi/TravelPlanner.Application/obj/Debug/net8.0/TravelPlanner.Application.dll
+/Users/ansar/Documents/opt-nosql/tp7/TravelPlannerApi/TravelPlanner.Application/obj/Debug/net8.0/refint/TravelPlanner.Application.dll
+/Users/ansar/Documents/opt-nosql/tp7/TravelPlannerApi/TravelPlanner.Application/obj/Debug/net8.0/TravelPlanner.Application.pdb
+/Users/ansar/Documents/opt-nosql/tp7/TravelPlannerApi/TravelPlanner.Application/obj/Debug/net8.0/ref/TravelPlanner.Application.dll
