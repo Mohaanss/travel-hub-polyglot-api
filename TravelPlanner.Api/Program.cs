@@ -12,6 +12,7 @@ using Microsoft.IdentityModel.Tokens;
 using System.Text;
 
 var builder = WebApplication.CreateBuilder(args);
+builder.WebHost.UseUrls("http://0.0.0.0:5059");
 
 // Add services to the containe
 
@@ -57,8 +58,11 @@ builder.Services.AddScoped<IOfferCreationService, OfferCreationService>();
 builder.Services.AddScoped<ICityGraphService, Neo4jCityGraphService>();
 builder.Services.AddScoped<IAuthService, AuthService>();
 builder.Services.AddScoped<IUserRepository, MongoUserRepository>();
-builder.Services.AddSingleton<IConnectionMultiplexer>(ConnectionMultiplexer.Connect("localhost"));
+builder.Services.AddSingleton<IConnectionMultiplexer>(ConnectionMultiplexer.Connect("travel_redis"));
 builder.Services.AddScoped<IRedisService, RedisService>();
+builder.Services.AddScoped<ICityGraphRepository, Neo4jCityGraphRepository>();
+builder.Services.AddScoped<INotificationService, RedisNotificationService>();
+
 // Application
 builder.Services.AddScoped<IOfferService, OfferService>();
 builder.Services.Configure<JwtSettings>(builder.Configuration.GetSection("Jwt"));

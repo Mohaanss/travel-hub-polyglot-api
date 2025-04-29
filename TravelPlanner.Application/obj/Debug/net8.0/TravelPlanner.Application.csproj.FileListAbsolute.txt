@@ -13,3 +13,4 @@
 /Users/ansar/Documents/opt-nosql/tp7/TravelPlannerApi/TravelPlanner.Application/obj/Debug/net8.0/refint/TravelPlanner.Application.dll
 /Users/ansar/Documents/opt-nosql/tp7/TravelPlannerApi/TravelPlanner.Application/obj/Debug/net8.0/TravelPlanner.Application.pdb
 /Users/ansar/Documents/opt-nosql/tp7/TravelPlannerApi/TravelPlanner.Application/obj/Debug/net8.0/ref/TravelPlanner.Application.dll
+/Users/ansar/Documents/opt-nosql/tp7/TravelPlannerApi/TravelPlanner.Application/obj/Debug/net8.0/TravelPlanner.Application.sourcelink.json

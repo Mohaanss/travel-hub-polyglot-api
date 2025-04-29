@@ -7,10 +7,11 @@ namespace TravelPlanner.Application.Services
     {
         private readonly IOfferRepository _offerRepository;
         private readonly ICityGraphService _cityGraphService;
-
-        public OfferCreationService(IOfferRepository offerRepository, ICityGraphService cityGraphService)
+        private readonly INotificationService _notificationService;
+        public OfferCreationService(IOfferRepository offerRepository, ICityGraphService cityGraphService, INotificationService notificationService)
         {
             _offerRepository = offerRepository;
+            _notificationService = notificationService;
             _cityGraphService = cityGraphService;
         }
 
@@ -24,6 +25,7 @@ namespace TravelPlanner.Application.Services
             var weight = CityDistanceService.ComputeWeight(distance);
             // 1. Créer l'offre dans MongoDB
             await _offerRepository.CreateOfferAsync(offer);
+            await _notificationService.PublishOfferCreatedAsync(offer.Id, offer.From, offer.To);
 
             // 2. Créer les villes + la relation dans Neo4j
             await _cityGraphService.EnsureCitiesAndRelationAsync(offer.From, offer.To, weight);

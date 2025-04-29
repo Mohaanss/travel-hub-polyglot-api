@@ -10,3 +10,4 @@
 /Users/ansar/Documents/opt-nosql/tp7/TravelPlannerApi/TravelPlanner.Domain/obj/Debug/net8.0/TravelPlanner.Domain.pdb
 /Users/ansar/Documents/opt-nosql/tp7/TravelPlannerApi/TravelPlanner.Domain/obj/Debug/net8.0/ref/TravelPlanner.Domain.dll
 /Users/ansar/Documents/opt-nosql/tp7/TravelPlannerApi/TravelPlanner.Domain/obj/Debug/net8.0/TravelPlanner.Domain.csproj.AssemblyReference.cache
+/Users/ansar/Documents/opt-nosql/tp7/TravelPlannerApi/TravelPlanner.Domain/obj/Debug/net8.0/TravelPlanner.Domain.sourcelink.json

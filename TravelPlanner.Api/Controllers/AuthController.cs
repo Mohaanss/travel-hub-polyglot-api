@@ -30,16 +30,5 @@ namespace TravelPlanner.Api.Controllers
             var token = await _authService.LoginAsync(request);
             return Ok(token);
         }
-
-        [Authorize]
-        [HttpGet("me")]
-        public IActionResult Me()
-        {
-            var userId = User.FindFirst(JwtRegisteredClaimNames.Sub)?.Value;
-            var email = User.FindFirst(JwtRegisteredClaimNames.Email)?.Value;
-            var username = User.FindFirst("username")?.Value;
-
-            return Ok(new { userId, email, username });
-        }
     }
 }

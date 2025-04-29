@@ -46,24 +46,18 @@ namespace TravelPlanner.Api.Controllers
             var sw = Stopwatch.StartNew();
             try
             {
-                var offer = await _offerService.GetOfferDetailsAsync(id);
-
-                if (offer == null)
-                {
-                    sw.Stop();
-                    _logger.LogWarning("Offer {Id} not found after {Ms} ms", id, sw.ElapsedMilliseconds);
-                    return NotFound(new { error = "Offer not found", duration_ms = sw.ElapsedMilliseconds });
-                }
+                var result = await _offerService.GetOfferDetailsAsync(id);
+                if (result == null) return NotFound();
 
                 sw.Stop();
-                _logger.LogInformation("GET /offers/{Id} executed in {Ms} ms", id, sw.ElapsedMilliseconds);
-                return Ok(offer);
+                _logger.LogInformation("GET /offers/{id} completed in {ms}ms", id, sw.ElapsedMilliseconds);
+                return Ok(result);
             }
             catch (Exception ex)
             {
                 sw.Stop();
-                _logger.LogError(ex, "Error in GET /offers/{Id} after {Ms} ms", id, sw.ElapsedMilliseconds);
-                return StatusCode(500, new { error = "Internal Server Error", duration_ms = sw.ElapsedMilliseconds });
+                _logger.LogError(ex, "GET /offers/{id} failed after {ms}ms", sw.ElapsedMilliseconds);
+                return StatusCode(500, "Internal Server Error");
             }
         }
         [HttpPost]
